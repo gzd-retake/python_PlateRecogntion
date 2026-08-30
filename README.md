@@ -1,5 +1,7 @@
 # Python opencv 车牌识别
 
+项目来源于(https://github.com/dreamhunter2333/python_PlateRecogntion).
+
 车牌数据来源于网络，侵删
 
 - [Python opencv 车牌识别](#python-opencv-车牌识别)
