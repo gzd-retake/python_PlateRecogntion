@@ -1,4 +1,4 @@
-# Python opencv 车牌识别
+# 复现 Python opencv 车牌识别
 
 项目来源于(https://github.com/dreamhunter2333/python_PlateRecogntion).
 
