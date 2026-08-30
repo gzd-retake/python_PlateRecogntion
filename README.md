@@ -72,11 +72,7 @@ GRANT ALL PRIVILEGES ON *.* TO 'python'@'%';
 
 #### 安装 python3.6
 
-安装 python3.6 [https://www.python.org/downloads/release/python-366/](https://www.python.org/downloads/release/python-366/)
-
 #### 下载 mysql 便携版
-
-[https://github.com/dreamhunter2333/python_PlateRecogntion/releases/download/v0.0.1/mysql-server-winx64.zip](https://github.com/dreamhunter2333/python_PlateRecogntion/releases/download/v0.0.1/mysql-server-winx64.zip)
 
 解压后，cmd 执行 start.bat
 
@@ -123,8 +119,6 @@ python3 search_sql.py
 # 运行 停车场系统
 python3 park.py
 ```
-
-- [android数据库查询软件](https://github.com/dreamhunter2333/android_sql)
 
 ## 图片展示
 
